@@ -939,8 +939,8 @@ class _TapTarget extends StatelessWidget {
   Widget build(BuildContext context) => CenterAbout(
         position: anchor,
         child: Container(
-          height: 2 * radius,
-          width: 2 * radius,
+//          height: 2 * radius,
+//          width: 2 * radius,
           child: Opacity(
             opacity: opacity,
             child: RawMaterialButton(
