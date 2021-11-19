@@ -834,6 +834,7 @@ class _Pulse extends StatelessWidget {
           child: Container(
             // width: radius * 2,
             // height: radius * 2,
+
             decoration: BoxDecoration(
               shape: BoxShape.circle,
               color: color.withOpacity(opacity),
